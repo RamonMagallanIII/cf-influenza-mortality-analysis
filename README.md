@@ -47,9 +47,6 @@ The goal is to transform raw public health data into actionable insights that ca
 ---
 
 ## Example Visualization  
-_Add a screenshot of your Tableau dashboard here to make the README visually engaging:_  
-
-## Example Visualization  
 ![Influenza Heatmap](images/influenza_heatmap.png)  
 *Geographic hotspots show higher influenza mortality in states like California, New York, Texas, and Pennsylvania.* 
 
