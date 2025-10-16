@@ -13,7 +13,7 @@ The goal is to transform raw public health data into actionable insights that ca
 
 ## Data Sources  
 - **CDC Influenza Mortality Data** (cause-specific death counts by state and year)  
-- **U.S. Census Population Data** (demographic breakdowns by age group and state)  
+- **U.S. Census Population Data** (demographic breakdowns by age group and state)
 
 ---
 
@@ -30,19 +30,28 @@ The goal is to transform raw public health data into actionable insights that ca
 - Year-to-year variability emphasizes the importance of **monitoring seasonal trends**.  
 - Interactive Tableau dashboards allow filtering by **age group, region, and year** for deeper exploration.  
 
+### Example Analysis: Age vs Mortality  
+![Age Correlation](images/influenza_age_correlation.png)  
+*Older populations (65+) face disproportionately higher mortality despite being a smaller share of the population.*
+
 ---
 
 ## Deliverables  
 - **Interactive Tableau Dashboard** (link if published on Tableau Public)  
 - Cleaned datasets and preprocessing files  
-- Final report summarizing findings and recommendations  
+- Final report summarizing findings and recommendations
+
+![Dataset Preview](images/influenza_combined_dataset.png)  
+*Combined CDC & Census dataset used for mortality rate calculations.*  
 
 ---
 
 ## Example Visualization  
 _Add a screenshot of your Tableau dashboard here to make the README visually engaging:_  
 
-![Influenza Mortality Dashboard](images/influenza_dashboard.png)  
+## Example Visualization  
+![Influenza Heatmap](images/influenza_heatmap.png)  
+*Geographic hotspots show higher influenza mortality in states like California, New York, Texas, and Pennsylvania.* 
 
 ---
 
